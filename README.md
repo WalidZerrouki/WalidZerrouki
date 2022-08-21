@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Walid Zerrouki (زروقي وليد), Real name Taqi al-Din Zerrouki (زروقي تقي الدين).
+- 🇩🇿 I’m from Algeria exactly Tebessa
+- 👍 I have good experience with Lua
+- 🥅 My goal is to learn java and C#
+- 📞 How to reach me: Discord account "walidza#4263"
